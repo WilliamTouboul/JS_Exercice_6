@@ -1,0 +1,15 @@
+html {
+    background-color: rgb(170, 21, 21);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#form {
+    border: solid black 2px;
+    background-color: rgb(170, 21, 21);
+    text-align: center;
+    padding-top: 1em;
+}
+.navbar {
+    background-color: black;
+    color : white;
+
+}
